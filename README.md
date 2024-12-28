@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning website development
 
-
+<img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 
